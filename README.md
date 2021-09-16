@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Teshan
 
-<!--
-**teshanshanuka/teshanshanuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic Electronic Engineer with 5+ years of demonstrated history of working in robotics, software and embedded systems development.
 
-Here are some ideas to get you started:
+- :computer: Languages: Python, C++, C
+- 🔭 I'm interested in new technologies
+- 👯 Looking to collaborate on robotics related projects
+- 💬 Ask me about: Robotics, Programming, Astronomy, Physics
+- 📫 How to reach me: teshanuka@gmail.com
+- ⚡ Fun fact: W starts with a D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Teshan's stats overview](https://github.com/teshanshanuka/github-stats/blob/master/generated/overview.svg)
+![Teshan's languages](https://github.com/teshanshanuka/github-stats/blob/master/generated/languages.svg)
