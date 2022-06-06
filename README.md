@@ -10,7 +10,5 @@ Robotics Engineer | Researcher
 - 📫 How to reach me: teshanuka@gmail.com
 - ⚡ Fun fact: W starts with a D
 
-<!--- Commented until I get github-stats to work properly
-![Teshan's stats overview](https://github.com/teshanshanuka/github-stats/blob/master/generated/overview.svg)
-![Teshan's languages](https://github.com/teshanshanuka/github-stats/blob/master/generated/languages.svg)
--->
+<img src="https://github.com/teshanshanuka/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/teshanshanuka/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
