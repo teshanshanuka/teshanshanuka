@@ -2,8 +2,7 @@
 
 Robotics Engineer | Researcher 
 
-![](https://via.placeholder.com/15/ff00ff/000000?text=+) [My blog](https://teshanshanuka.github.io/) ![](https://via.placeholder.com/15/ff00ff/000000?text=+)
-
+🖎 [My blog](https://teshanshanuka.github.io/) ✍️
 - :computer: Languages: Python, C++, C
 - 👯 Looking to collaborate on robotics related projects
 - 💬 Ask me about: Robotics, Programming, Astronomy, Physics
